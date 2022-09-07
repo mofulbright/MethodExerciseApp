@@ -1,0 +1,6 @@
+C:\Users\kpink\source\repos\kpink410\MethodExerciseApp\MethodExercise\bin\Debug\MethodExercise.exe
+C:\Users\kpink\source\repos\kpink410\MethodExerciseApp\MethodExercise\bin\Debug\MethodExercise.pdb
+C:\Users\kpink\source\repos\kpink410\MethodExerciseApp\MethodExercise\obj\Debug\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\kpink\source\repos\kpink410\MethodExerciseApp\MethodExercise\obj\Debug\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\kpink\source\repos\kpink410\MethodExerciseApp\MethodExercise\obj\Debug\MethodExercise.exe
+C:\Users\kpink\source\repos\kpink410\MethodExerciseApp\MethodExercise\obj\Debug\MethodExercise.pdb
